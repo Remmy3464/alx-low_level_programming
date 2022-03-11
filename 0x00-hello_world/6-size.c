@@ -1,9 +1,9 @@
 #include <stdio.h>
-/*
-* Description: main - Prints out the sizes
-*
-* Return: Always 0 (Success)
-*/
+/**
+ * main - Prints out the sizes of various data types on the computer
+ * this program is compiled on.
+ * Return: 0 if success.
+ */
 int main(void)
 {
 char c;
