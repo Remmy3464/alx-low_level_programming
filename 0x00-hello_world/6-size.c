@@ -1,6 +1,6 @@
 #include <stdio.h>
 /*
-* main - Entry point
+* Description: main - Prints out the sizes
 *
 * Return: Always 0 (Success)
 */
