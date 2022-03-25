@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "holberton.h"
+#include "main.h"
 /**
  * print_number - prints a number
  * @n: Input number
